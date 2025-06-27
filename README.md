@@ -1,4 +1,4 @@
-# Static Web App
+# Azure Static Web App
 
 This repository is created for the session: **Seamless Static Web App Deployment on Azure Web Apps**. It contains a simple React application with a shopping theme to help you understand how to deploy static web apps to Azure.
 
